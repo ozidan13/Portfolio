@@ -4,8 +4,8 @@ This site is my Personal Portfolio and contain all links to contact me ( e-mail,
 ## Features 
 I learned a lot in this project :
 * Reactjs Components
-* Adding Libiraries to my React app
-* Creating custom email form in website 
+* Adding Libraries  to my React app
+* Creating custom email form on the website
 * Creating smart and awesome Animations 
 * Completely Reactjs Application with technologies : HTML5 -CSS3 -SASS - Javascript ES6 - Reactjs Framework - Nodejs (for backend)
 * Using : ( fortawsome - emailjs - gsap - animate.css - Loaders.css ) Libraries
