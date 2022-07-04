@@ -58,7 +58,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Install
 
 
-    $ git clone https://github.com/ORG/PROJECT.git
+    $ git clone [https://github.com/ORG/PROJECT.git](https://github.com/ozidan13/Portfolio)
     $ cd PROJECT
     $ npm install
     
