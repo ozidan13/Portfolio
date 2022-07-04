@@ -2,7 +2,7 @@
 My Personal Portfolio
 This site is my Personal Portfolio and contain all links to contact me ( e-mail, LinkedIn, Facebook, and WhatsApp )
 ## Features 
-i have learn more in this project :
+I learned a lot in this project :
 * Reactjs Components
 * Adding Libiraries to my React app
 * Creating custom email form in website 
